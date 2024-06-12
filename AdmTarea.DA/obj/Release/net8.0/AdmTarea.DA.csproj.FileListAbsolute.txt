@@ -1,0 +1,17 @@
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.DA.deps.json
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.DA.dll
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.DA.pdb
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.BC.dll
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.BW.dll
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.BW.pdb
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\bin\Release\net8.0\AdmTarea.BC.pdb
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.csproj.AssemblyReference.cache
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.AssemblyInfo.cs
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.BA2F4743.Up2Date
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.dll
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\refint\AdmTarea.DA.dll
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\AdmTarea.DA.pdb
+C:\Users\diego\Downloads\AdmTarea Asincrono\AdmTarea.DA\obj\Release\net8.0\ref\AdmTarea.DA.dll

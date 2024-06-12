@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7U45KdGvaU65YlijebCyUAAAAAACAAAAAAAQZgAAAAEAACAAAAAUQueweLTAovijdRz2pk9RJFIz1gQaGA2PxHKTf6oigQAAAAAOgAAAAAIAACAAAAAgBbbhe/Yg+dxAddRYd9WcpVgZfuWTQYU0a+cBNGZwiyAAAAB9f82yIi2oRtL9JIU0SSDKTly54LQTGJJm63MMl2O1skAAAAAmOTotSKfhDDWUiBbgJ5hjDibwP5gSFWhsvAXLc0iD5AfgSa2lUSt91VII3Az99CbwZMSLnUO15nx/gxt97+3P</EncryptedPassword>
+    <History>False|2024-06-12T16:26:05.3211955Z;False|2024-06-12T10:24:12.0360292-06:00;False|2024-06-12T10:23:46.5236076-06:00;False|2024-06-12T10:18:43.0150398-06:00;False|2024-06-12T10:17:04.9175063-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

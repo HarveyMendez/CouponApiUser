@@ -1,0 +1,44 @@
+D:\Clases\AdmTarea.Api\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.deps.json
+D:\Clases\AdmTarea.Api\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.dll
+D:\Clases\AdmTarea.Api\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.pdb
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfo.cs
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.dll
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
+D:\Clases\AdmTarea.Api\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.deps.json
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfo.cs
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\erick\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.deps.json
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfo.cs
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.deps.json
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfo.cs
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll

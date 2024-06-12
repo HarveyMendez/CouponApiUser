@@ -1,0 +1,6 @@
+@AdmTarea.Api_HostAddress = http://localhost:5160
+
+GET {{AdmTarea.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

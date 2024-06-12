@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdmTarea.BW/1.0.0": {
+        "dependencies": {
+          "AdmTarea.BC": "1.0.0"
+        },
+        "runtime": {
+          "AdmTarea.BW.dll": {}
+        }
+      },
+      "AdmTarea.BC/1.0.0": {
+        "runtime": {
+          "AdmTarea.BC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdmTarea.BW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdmTarea.BC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
