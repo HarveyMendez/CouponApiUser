@@ -15,6 +15,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+// Configuración de CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
+});
+
+
 //Inyección de dependencias
 builder.Services.AddTransient<IGestionarTareaBW, GestionarTareaBW>();
 builder.Services.AddTransient<IGestionarTareaDA, GestionarTareaDA>();
@@ -60,6 +73,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
+// Aplicar la política de CORS
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 
