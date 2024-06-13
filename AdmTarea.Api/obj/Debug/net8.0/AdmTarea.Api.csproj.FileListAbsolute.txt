@@ -314,3 +314,4 @@ C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.Api\obj\Debug\net8.0\refint\A
 C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.Api\obj\Debug\net8.0\AdmTarea.Api.pdb
 C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.Api\obj\Debug\net8.0\AdmTarea.Api.genruntimeconfig.cache
 C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.Api\obj\Debug\net8.0\ref\AdmTarea.Api.dll
+C:\Users\XPC\Documents\AdmTarea Asincrono\AdmTarea.Api\bin\Debug\net8.0\Newtonsoft.Json.dll

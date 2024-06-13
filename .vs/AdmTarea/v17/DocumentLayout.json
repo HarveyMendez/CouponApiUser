@@ -1,14 +1,162 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diego\\Downloads\\AdmTarea Asincrono\\",
+  "WorkspaceRootPath": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\diego\\downloads\\admtarea asincrono\\admtarea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\controllers\\pagorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\pagorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\admtarea.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\admtarea.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\diego\\downloads\\admtarea asincrono\\admtarea.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\utilitarios\\tareadtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\tareadtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\utilitarios\\usuariodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\usuariodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\entidades\\usuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\usuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\entidades\\tareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\tareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\acciones\\gestionarcarritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionarcarritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\acciones\\gestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\utilitarios\\carritodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\carritodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\entidades\\carritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\carritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\acciones\\gestionarusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionarusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\reglasdenegocio\\reglasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\reglasdenegocio\\reglasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\cu\\gestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\cu\\gestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\bw\\igestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\da\\igestionarusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionarusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\bw\\igestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\cu\\gestionarcarritobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionarcarritobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\reglasdenegocio\\reglastarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\reglasdenegocio\\reglastarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\contexto\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\contexto\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\reglasdenegocio\\reglascarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\reglasdenegocio\\reglascarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\contexto\\carritocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\contexto\\carritocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\modelos\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bc\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\reglasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\reglasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.da\\contexto\\admtareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\contexto\\admtareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\admtarea.bw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\admtarea.bw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8044D05A-04F0-4FFA-8725-590A4FF330DF}|AdmTarea.SG\\AdmTarea.SG.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.sg\\admtarea.sg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8044D05A-04F0-4FFA-8725-590A4FF330DF}|AdmTarea.SG\\AdmTarea.SG.csproj|solutionrelative:admtarea.sg\\admtarea.sg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\bw\\igestionarcarritobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionarcarritobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\da\\igestionarcarritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionarcarritoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\admtarea asincrono\\admtarea.bw\\interfaces\\da\\igestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +166,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -31,27 +175,508 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\AdmTarea Asincrono\\AdmTarea.Api\\Program.cs",
-              "RelativeDocumentMoniker": "AdmTarea.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\diego\\Downloads\\AdmTarea Asincrono\\AdmTarea.Api\\Program.cs",
-              "RelativeToolTip": "AdmTarea.Api\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAuwBsAAAADAAAA",
+              "Title": "PagoRSA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\PagoRSA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\PagoRSA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\PagoRSA.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\PagoRSA.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwEoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:45:30.621Z",
+              "WhenOpened": "2024-06-13T05:58:16.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:30:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Program.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:07:03.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\diego\\Downloads\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "AdmTarea.Api\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAARAAAA",
+              "Title": "AdmTarea.Api.http",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\AdmTarea.Api.http",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\AdmTarea.Api.http",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\AdmTarea.Api.http",
+              "RelativeToolTip": "AdmTarea.Api\\AdmTarea.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-12T07:53:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:40:34.86Z",
+              "WhenOpened": "2024-06-09T01:27:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\TareaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:51:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarritoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\CarritoDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\CarritoDTO.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\CarritoDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\CarritoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:28:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\UsuarioDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\UsuarioDTOMapper.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\UsuarioDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\UsuarioDTOMapper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:29:46.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:28:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarritoDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\CarritoDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\CarritoDTOMapper.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Utilitarios\\CarritoDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\CarritoDTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:29:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:26:59.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestionarTareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:07:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:02:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestionarCarritoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarCarritoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarCarritoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarCarritoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarCarritoDA.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:46:23.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:01:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\UsuarioDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\UsuarioDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\UsuarioDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\UsuarioDA.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:33:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarritoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\CarritoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\CarritoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Entidades\\CarritoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\CarritoDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:33:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GestionarTareaBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:34:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.Api\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\CarritoController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwD4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:30:57.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReglasUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasUsuario.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\ReglasDeNegocio\\ReglasUsuario.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasUsuario.cs",
+              "RelativeToolTip": "AdmTarea.BC\\ReglasDeNegocio\\ReglasUsuario.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:12:27.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestionarUsuarioBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarUsuarioBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarUsuarioBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarUsuarioBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarUsuarioBW.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:46:59.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGestionarUsuarioBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarUsuarioBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarUsuarioBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarUsuarioBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarUsuarioBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:40:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGestionarUsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarUsuarioDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarUsuarioDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarUsuarioDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarUsuarioDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:49:38.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GestionarUsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarUsuarioDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarUsuarioDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Acciones\\GestionarUsuarioDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarUsuarioDA.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:46:09.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGestionarTareaBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:36:53.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GestionarCarritoBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarCarritoBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarCarritoBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\CU\\GestionarCarritoBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarCarritoBW.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:47:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReglasTarea.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "RelativeToolTip": "AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:08:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Contexto\\UsuarioContext.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\UsuarioContext.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Contexto\\UsuarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:37:49.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReglasCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasCarrito.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\ReglasDeNegocio\\ReglasCarrito.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\ReglasDeNegocio\\ReglasCarrito.cs",
+              "RelativeToolTip": "AdmTarea.BC\\ReglasDeNegocio\\ReglasCarrito.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:12:37.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CarritoContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\CarritoContext.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Contexto\\CarritoContext.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\CarritoContext.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Contexto\\CarritoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:38:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Carrito.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Carrito.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Carrito.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Carrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:06:10.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Tarea.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BC\\Modelos\\Tarea.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:02:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReglasUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\ReglasUsuario.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\ReglasUsuario.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\ReglasUsuario.cs",
+              "RelativeToolTip": "AdmTarea.BW\\ReglasUsuario.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:07:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdmTareaContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:55:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdmTarea.BW.csproj",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\AdmTarea.BW.csproj",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\AdmTarea.BW.csproj",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\AdmTarea.BW.csproj",
+              "RelativeToolTip": "AdmTarea.BW\\AdmTarea.BW.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T01:26:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGestionarCarritoBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarCarritoBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarCarritoBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\BW\\IGestionarCarritoBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarCarritoBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:40:13.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdmTarea.SG.csproj",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.SG\\AdmTarea.SG.csproj",
+              "RelativeDocumentMoniker": "AdmTarea.SG\\AdmTarea.SG.csproj",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.SG\\AdmTarea.SG.csproj",
+              "RelativeToolTip": "AdmTarea.SG\\AdmTarea.SG.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T23:01:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IGestionarCarritoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarCarritoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarCarritoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarCarritoDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarCarritoDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:21:37.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGestionarTareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\AdmTarea Asincrono\\AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:35:09.435Z",
               "EditorCaption": ""
             }
           ]
